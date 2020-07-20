@@ -1,1 +1,1 @@
-python3 clocky.py
+web: python3 bot.py
