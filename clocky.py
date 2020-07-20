@@ -3,7 +3,7 @@ from telegram.ext import CommandHandler, Updater
 from os import getenv
 from dotenv import load_dotenv
 import datetime
-from .utils import *
+from utils import *
 
 load_dotenv()
 
