@@ -1,1 +1,1 @@
-worker: python3 clocky.py
+web: python3 clocky.py
