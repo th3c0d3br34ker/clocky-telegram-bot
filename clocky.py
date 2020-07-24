@@ -8,7 +8,6 @@ from utils import *
 load_dotenv()
 
 TOKEN = getenv('TELEGRAMBOT_TOKEN')
-print(TOKEN)
 updater = Updater(token=TOKEN)
 
 
